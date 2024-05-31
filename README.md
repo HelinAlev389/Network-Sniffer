@@ -11,7 +11,7 @@ Install in Terminal:
 <ul>
 <li>pip install scapy <br></li>
 <li>ip link show <i>/from this you should see your interface/</i><br></li>
-<li>sudo python networksniffer.py -i < interface >   <i>/for example eth0</i>/<br></li>
+<li>sudo python main.py -i < interface >   <i>/for example eth0</i>/<br></li>
 </ul>
 
 
